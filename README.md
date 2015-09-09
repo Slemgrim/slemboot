@@ -1,5 +1,3 @@
-#steuerreform2015.at
-
 ##installation
 
 ```
